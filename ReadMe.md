@@ -66,9 +66,13 @@ b)<b>Indicateurs visuels:</b> Des signaux lumineux peuvent compléter l'affichag
 |  |  | |
 | |  |  |
 
-
 ## Log
 
+### Week 6 - 12 May
+
+### Week 7 - 19 May
+
+### Week 20 - 26 May
 
 
 
