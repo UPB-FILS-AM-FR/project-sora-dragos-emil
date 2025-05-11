@@ -1,5 +1,10 @@
 <h2>Système de parking automatisé avec barrière utilisant Arduino Uno 🚗🚧</h2>
 
+| Auteur              | Information         |
+|---------------------|---------------------|
+| Sora Dragoș-Emil | [GitHub Profile](https://github.com/sora-dragos-emil) |
+
+
 ## Description
 
 Ce projet présente un système intelligent de parking avec barrière automatisée, contrôlé par Arduino Uno.
@@ -15,7 +20,7 @@ Les systèmes de gestion de parking automatisés représentent une solution prat
 
 3)<b>Formation technologique complète:</b> Ce projet intègre des notions d'électronique, de programmation, de mécanique et d'interface utilisateur dans une seule réalisation.
 
-## Fonctionnement
+## Architecture
 
 Le système de parking automatisé opère selon trois mécanismes principaux:
 
@@ -40,3 +45,15 @@ b)<b>Indicateurs visuels:</b> Des signaux lumineux peuvent compléter l'affichag
 ## Schéma des composants du système
 
 ![Schéma fonctionnel](./CircuitD.png)
+
+
+## Composants
+
+| Nombre | Appareil        | Usage                        |  Prix(RON) 
+|--------|-----------------|------------------------------|------------------------------------------------------------------------------------------------------------------|
+|   1.   | Arduino UNO     | Microcontrôleur              | [39.37](https://www.optimusdigital.ro/en/avr-boards/2563-development-board-compatible-with-arduino-uno-atmega328p-i-ch340-with-50-cm-cable.html)                                                                                                                                               |
+|   2.   | BreadBoard 400p | Montage des composants       | [4.56](https://www.optimusdigital.ro/en/breadboards/44-400p-hq-breadboard.html)                                  |
+|   3.   | LCD & I2C Module| Afficher les messages        | [16.34](https://www.optimusdigital.ro/en/lcds/2894-1602-lcd-with-i2c-interface-and-blue-backlight.html)          |
+|   4.   | 2 x IR Sensors  | Détecter les voitures        | [6.98](https://www.optimusdigital.ro/en/optical-sensors/4514-infrared-obstacle-sensor.html)                      |
+|   5.   | Servo-motor SG90| Lever et abaisser la barrière| [13.99](https://www.optimusdigital.ro/en/servomotors/26-sg90-micro-servo-motor.html)                             |
+|   6.   | Jumper Wires M-M| Connexions électriques       | [22.99](https://www.optimusdigital.ro/en/wires-with-connectors/12475-male-to-male-jumper-wires-40-pin-40cm.html) |
