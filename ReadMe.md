@@ -57,3 +57,20 @@ b)<b>Indicateurs visuels:</b> Des signaux lumineux peuvent compléter l'affichag
 |   4.   | 2 x IR Sensors  | Détecter les voitures        | [6.98](https://www.optimusdigital.ro/en/optical-sensors/4514-infrared-obstacle-sensor.html)                      |
 |   5.   | Servo-motor SG90| Lever et abaisser la barrière| [13.99](https://www.optimusdigital.ro/en/servomotors/26-sg90-micro-servo-motor.html)                             |
 |   6.   | Jumper Wires M-M| Connexions électriques       | [22.99](https://www.optimusdigital.ro/en/wires-with-connectors/12475-male-to-male-jumper-wires-40-pin-40cm.html) |
+
+
+### Libraries
+
+| Library | Description | Usage |
+|---------|-------------|-------|
+|  |  | |
+| |  |  |
+
+
+## Log
+
+
+
+
+## Référence
+[Youtube Tutorial](https://www.youtube.com/watch?v=P64CoHCSD6w&ab_channel=SimpleCircuits)
