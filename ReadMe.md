@@ -65,6 +65,7 @@ b)<b>Indicateurs visuels:</b> Des signaux lumineux peuvent compléter l'affichag
 |---------|-------------|-------|
 | Wire | Permet la communication I2C | #include <Wire.h> |
 | LiquidCrystal I2C | Utilisée pour contrôler un écran LCD avec interface I2C | #include <LiquidCrystal_I2C.h> |
+| Servo | Contrôle des servomoteurs avec Arduino. | #include <Servo.h> |
 
 ## Log
 
