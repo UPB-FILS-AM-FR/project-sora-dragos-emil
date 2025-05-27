@@ -63,18 +63,22 @@ b)<b>Indicateurs visuels:</b> Des signaux lumineux peuvent compléter l'affichag
 
 | Library | Description | Usage |
 |---------|-------------|-------|
-|  |  | |
-| |  |  |
+| Wire | Permet la communication I2C | #include <Wire.h> |
+| LiquidCrystal I2C | Utilisée pour contrôler un écran LCD avec interface I2C | #include <LiquidCrystal_I2C.h> |
 
 ## Log
 
 ### Week 6 - 12 May
+J'ai acheté toutes les composantes nécessaires sur le site Optimus Digital.
 
 ### Week 7 - 19 May
-
+Cette semaine, j''ai commencé et terminé la partie hardware.
 ### Week 20 - 26 May
+Cette semaine, j'ai finalisé la partie software et terminé le projet.
 
+<img src="Hardware.jpeg" width="300" /> 
 
+<img src="Software.jpeg" width="300" /> 
 
 ## Référence
 [Youtube Tutorial](https://www.youtube.com/watch?v=P64CoHCSD6w&ab_channel=SimpleCircuits)
